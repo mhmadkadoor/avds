@@ -1,0 +1,48 @@
+<button id="chat-fab" class="chat-fab" aria-label="Open AI Assistant" title="Open AI Assistant">
+  <svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g filter="url(#filter0_dd_19_1567)">
+      <path d="M12 30C12 14.536 24.536 2 40 2C55.464 2 68 14.536 68 30C68 45.464 55.464 58 40 58C24.536 58 12 45.464 12 30Z" fill="#030213" shape-rendering="crispEdges"/>
+      <g clip-path="url(#clip0_19_1567)">
+        <path d="M33.9947 32.8947C34.0928 33.142 34.1146 33.4129 34.0574 33.6727L33.3474 35.866C33.3245 35.9773 33.3305 36.0925 33.3646 36.2008C33.3987 36.3091 33.46 36.4069 33.5425 36.4849C33.6251 36.5629 33.7262 36.6185 33.8362 36.6465C33.9463 36.6744 34.0617 36.6738 34.1714 36.6447L36.4467 35.9794C36.6919 35.9307 36.9458 35.952 37.1794 36.0407C38.603 36.7055 40.2157 36.8462 41.7328 36.4378C43.25 36.0295 44.5743 35.0985 45.4719 33.8089C46.3695 32.5194 46.7828 30.9543 46.6389 29.3897C46.4951 27.8251 45.8032 26.3617 44.6855 25.2575C43.5677 24.1533 42.0959 23.4794 40.5297 23.3546C38.9635 23.2299 37.4035 23.6623 36.125 24.5756C34.8466 25.4889 33.9318 26.8244 33.542 28.3464C33.1522 29.8685 33.3126 31.4793 33.9947 32.8947Z" stroke="white" stroke-width="1.33333" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+    </g>
+    <defs>
+      <filter id="filter0_dd_19_1567" x="0" y="0" width="80" height="80" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+        <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+        <feMorphology radius="4" operator="erode" in="SourceAlpha" result="effect1_dropShadow_19_1567"/>
+        <feOffset dy="4"/>
+        <feGaussianBlur stdDeviation="3"/>
+        <feComposite in2="hardAlpha" operator="out"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+        <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_19_1567"/>
+        <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+        <feMorphology radius="3" operator="erode" in="SourceAlpha" result="effect2_dropShadow_19_1567"/>
+        <feOffset dy="10"/>
+        <feGaussianBlur stdDeviation="7.5"/>
+        <feComposite in2="hardAlpha" operator="out"/>
+        <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+        <feBlend mode="normal" in2="effect1_dropShadow_19_1567" result="effect2_dropShadow_19_1567"/>
+        <feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow_19_1567" result="shape"/>
+      </filter>
+      <clipPath id="clip0_19_1567">
+        <rect width="16" height="16" fill="white" transform="translate(32 22)"/>
+      </clipPath>
+    </defs>
+  </svg>
+</button>
+
+<section id="chat-popup" class="chat-popup" role="dialog" aria-modal="true" aria-hidden="true" aria-label="AI Assistant">
+  <header class="chat-popup-header">
+    <div class="chat-popup-title">
+      <span class="chat-popup-icon">💬</span>
+      <span>AI Assistant</span>
+    </div>
+    <button id="chat-close" class="chat-close" aria-label="Close chat">×</button>
+  </header>
+  <div id="messages" class="messages" aria-live="polite"></div>
+  <form id="chat-form" class="chat-form">
+    <input id="prompt" name="prompt" type="text" placeholder="Type your message..." autocomplete="off" required />
+    <button type="submit">Send</button>
+  </form>
+</section>
