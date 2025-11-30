@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Avds_Api", "Avds_Api\Avds_Api.csproj", "{DE2DF544-417D-4F2B-8054-46D536EA5574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2DF544-417D-4F2B-8054-46D536EA5574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE2DF544-417D-4F2B-8054-46D536EA5574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE2DF544-417D-4F2B-8054-46D536EA5574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2DF544-417D-4F2B-8054-46D536EA5574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BECB65C8-F669-4264-AA94-CE809720DAFB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,102 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Avds_DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Avds_DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Avds_DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Avds_DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Avds_DataAccess/Avds_DataAccess.csproj",
+      "msbuildProject": "../Avds_DataAccess/Avds_DataAccess.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Avds_DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\MBM\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\Avds_Buisness.csproj",
+      "projectName": "Avds_Buisness",
+      "projectPath": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\Avds_Buisness.csproj",
+      "packagesPath": "C:\\Users\\MBM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\MBM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Avds_DataAccess.csproj": {
+              "projectPath": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Avds_DataAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
