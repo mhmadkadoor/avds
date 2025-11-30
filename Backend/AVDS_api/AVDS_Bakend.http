@@ -1,6 +1,0 @@
-@AVDS_Bakend_HostAddress = http://localhost:5217
-
-GET {{AVDS_Bakend_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
