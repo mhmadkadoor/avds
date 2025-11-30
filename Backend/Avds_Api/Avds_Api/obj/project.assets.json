@@ -491,7 +491,7 @@
       "projectName": "Avds_Api",
       "projectPath": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Api\\Avds_Api.csproj",
       "packagesPath": "C:\\Users\\MBM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Api\\obj\\",
+      "outputPath": "C:\\Users\\MBM\\Source\\Repos\\avds\\Backend\\Avds_Api\\Avds_Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
