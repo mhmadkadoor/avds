@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="Services\ClientService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\Avds_DataAccess\Avds_DataAccess.csproj" />
   </ItemGroup>
 

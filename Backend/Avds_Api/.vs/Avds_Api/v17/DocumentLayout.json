@@ -3,8 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_dataaccess\\repositories\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|solutionrelative:avds_dataaccess\\repositories\\clientdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_dataaccess\\repositories\\vehicledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|solutionrelative:avds_dataaccess\\repositories\\vehicledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8B8C9A-366A-370C-D8E0-864054B9C3E0}|Avds_Buisness\\Avds_Buisness.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_buisness\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8B8C9A-366A-370C-D8E0-864054B9C3E0}|Avds_Buisness\\Avds_Buisness.csproj|solutionrelative:avds_buisness\\dtos\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8B8C9A-366A-370C-D8E0-864054B9C3E0}|Avds_Buisness\\Avds_Buisness.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_buisness\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8B8C9A-366A-370C-D8E0-864054B9C3E0}|Avds_Buisness\\Avds_Buisness.csproj|solutionrelative:avds_buisness\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_dataaccess\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|solutionrelative:avds_dataaccess\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_dataaccess\\repositories\\dataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB40CDBB-683A-4270-48AD-47DE2A3ED9DD}|Avds_DataAccess\\Avds_DataAccess.csproj|solutionrelative:avds_dataaccess\\repositories\\dataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2DF544-417D-4F2B-8054-46D536EA5574}|Avds_Api\\Avds_Api.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE2DF544-417D-4F2B-8054-46D536EA5574}|Avds_Api\\Avds_Api.csproj|solutionrelative:avds_api\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8B8C9A-366A-370C-D8E0-864054B9C3E0}|Avds_Buisness\\Avds_Buisness.csproj|c:\\users\\mbm\\source\\repos\\avds\\backend\\avds_api\\avds_buisness\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8B8C9A-366A-370C-D8E0-864054B9C3E0}|Avds_Buisness\\Avds_Buisness.csproj|solutionrelative:avds_buisness\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MBM\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\01 StudentAPIServer with DB\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,15 +41,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
@@ -37,16 +60,111 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientData.cs",
-              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Repositories\\ClientData.cs",
-              "RelativeDocumentMoniker": "Avds_DataAccess\\Repositories\\ClientData.cs",
-              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Repositories\\ClientData.cs",
-              "RelativeToolTip": "Avds_DataAccess\\Repositories\\ClientData.cs",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Avds_Buisness\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\Services\\UserService.cs",
+              "RelativeToolTip": "Avds_Buisness\\Services\\UserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-30T16:16:58.561Z",
+              "WhenOpened": "2025-11-30T19:39:44.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\01 StudentAPIServer with DB\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\01 StudentAPIServer with DB\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ToolTip": "C:\\Users\\MBM\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\01 StudentAPIServer with DB\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\OneDrive\\\u0633\u0637\u062D \u0627\u0644\u0645\u0643\u062A\u0628\\01 StudentAPIServer with DB\\MyFirstRestAPI_Porject\\Controllers\\StudentAPIController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:34:48.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Api\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Avds_Api\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Api\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "Avds_Api\\Controllers\\VehicleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:34:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleDto.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\DTOs\\VehicleDto.cs",
+              "RelativeDocumentMoniker": "Avds_Buisness\\DTOs\\VehicleDto.cs",
+              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\DTOs\\VehicleDto.cs",
+              "RelativeToolTip": "Avds_Buisness\\DTOs\\VehicleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:13:19.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Avds_Buisness\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_Buisness\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Avds_Buisness\\Services\\VehicleService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T19:03:23.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Repositories\\DataAccessSettings.cs",
+              "RelativeDocumentMoniker": "Avds_DataAccess\\Repositories\\DataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Repositories\\DataAccessSettings.cs",
+              "RelativeToolTip": "Avds_DataAccess\\Repositories\\DataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:55:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Avds_DataAccess\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Avds_DataAccess\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:30:40.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleData.cs",
+              "DocumentMoniker": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Repositories\\VehicleData.cs",
+              "RelativeDocumentMoniker": "Avds_DataAccess\\Repositories\\VehicleData.cs",
+              "ToolTip": "C:\\Users\\MBM\\source\\repos\\avds\\Backend\\Avds_Api\\Avds_DataAccess\\Repositories\\VehicleData.cs*",
+              "RelativeToolTip": "Avds_DataAccess\\Repositories\\VehicleData.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAApwCwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T18:24:05.984Z",
               "EditorCaption": ""
             }
           ]

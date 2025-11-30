@@ -1,0 +1,13 @@
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\bin\Debug\net8.0\Avds_DataAccess.deps.json
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\bin\Debug\net8.0\Avds_DataAccess.dll
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\bin\Debug\net8.0\Avds_DataAccess.pdb
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.csproj.AssemblyReference.cache
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.AssemblyInfoInputs.cache
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.AssemblyInfo.cs
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.sourcelink.json
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.dll
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\refint\Avds_DataAccess.dll
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\Avds_DataAccess.pdb
+C:\Users\MBM\source\repos\avds\Backend\Avds_Api\Avds_DataAccess\obj\Debug\net8.0\ref\Avds_DataAccess.dll
