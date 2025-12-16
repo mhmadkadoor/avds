@@ -13,6 +13,6 @@ def inspect_db():
         for col in columns:
             print(col)
         print("\n")
-
+# 
 if __name__ == "__main__":
     inspect_db()
